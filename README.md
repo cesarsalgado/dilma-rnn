@@ -1,12 +1,14 @@
 # dilma-rnn
 
-Requisitos:
+## Requisitos:
 
-Linux
-wget
-Python
-BeautifulSoup (python lib)
-urllib2 (python lib) (opcional)
+- Linux
+- wget
+- Python
+- BeautifulSoup (python lib)
+- urllib2 (python lib) (opcional)
+
+## Instruções
 
 Para gerar o arquivo input.txt que pode ser usado no char-rnn use o comando: python gen_dilma_dataset.py
 
